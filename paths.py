@@ -8,7 +8,7 @@ folder_paths = {}
 folder_paths['errortm'] = r'Z:\Projects\Homecage\DLCVideos\trainingmodule_errors'
 
 # path to save generated .MAT files (training module)
-folder_paths['matfiletm'] = r'Z:\Projects\Homecage\DLCVideos\trainingmodule_matfiles'
+folder_paths['matfiletm'] = r'Z:\Projects\Homecage\DLCVideos\trainingmodule_matfiles_test'
 
 # path to move any errors caught/exceptions (cageview)
 folder_paths['errorcv'] = r'Z:\Projects\Homecage\DLC\Other\cageview_errors'
